@@ -20,7 +20,7 @@ export default defineUserConfig({
           link: '/principle/', // 声明笔记的链接前缀
           sidebar: [ // 配置侧边栏
             {
-              text: '七大原则',
+              text: '设计模式七大原则',
               icon: 'arcticons:the-talos-principle', // 侧边栏图标
               items: ['SingleResponsibility','InterfaceSegregation'], // 简化写法，主题会自动补全为 `foo.md`
               collapsed: true,
