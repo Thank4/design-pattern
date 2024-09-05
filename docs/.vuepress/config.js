@@ -7,7 +7,7 @@ import {defineNoteConfig, plumeTheme} from "vuepress-theme-plume";
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  base: './',
+  base: '/design-pattern/',
   title: '设计模式笔记',
   description: '记录学习设计模式笔记',
   theme: plumeTheme({
