@@ -6,7 +6,6 @@ description: 单一职责
 createTime: 2024/09/03 11:24:35
 tags:
   - principle
-sidebar: auto
 permalink: /principle/yj6zk4e0/
 ---
 
