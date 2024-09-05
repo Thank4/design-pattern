@@ -6,5 +6,5 @@ description: 接口隔离
 createTime: 2024/09/03 11:24:35
 tags:
   - principle
-permalink: /principle/um8agkyv/
+permalink: /principle/InterfaceSegregation/
 ---

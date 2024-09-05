@@ -6,7 +6,7 @@ description: 单一职责
 createTime: 2024/09/03 11:24:35
 tags:
   - principle
-permalink: /principle/yj6zk4e0/
+permalink: /principle/SingleResponsibility/
 ---
 
 单一职责原则，我们在设计类的时候尽量只负责一项功能，A类只负责功能A，B类只负责功能B，尽量避免A类即负责A功能又负责B功能，这样会导致代码混乱，容易产生bug
