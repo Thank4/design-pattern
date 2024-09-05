@@ -36,3 +36,7 @@ public class Single {
     }
 }
 ```
+
+#### 运行结果:
+
+![result](../assets/img1.png)

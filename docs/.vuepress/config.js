@@ -20,16 +20,13 @@ export default defineUserConfig({
           link: '/principle/', // 声明笔记的链接前缀
           sidebar: [ // 配置侧边栏
             {
-              text: '单一责任原则',
-              icon: 'mdi:language-typescript', // 侧边栏图标
-              items: ['SingleResponsibility'] // 简化写法，主题会自动补全为 `foo.md`
-            },
-            {
-              text: '接口隔离原则',
-              icon: 'mdi:language-typescript', // 侧边栏图标
-              items: ['InterfaceSegregation'] // 简化写法，主题会自动补全为 `foo.md`
+              text: '七大原则',
+              icon: 'arcticons:the-talos-principle', // 侧边栏图标
+              items: ['SingleResponsibility','InterfaceSegregation'], // 简化写法，主题会自动补全为 `foo.md`
+              collapsed: true,
             }
-          ]
+          ],
+
         }
       ]
     }
